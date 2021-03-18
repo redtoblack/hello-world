@@ -18,5 +18,4 @@
   <p></p>
   <p style="text-align:center;">
       <font color="LightSeaGreen">
-      Return to Home
-      </font></a></p>
+      <a href="readme.md" target="_self">Return to Home</font></a></p>
