@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="UTF-8">
-</head>
-
-<body>
   <h2 style="text-align:center;">Scenario 1</h2>
   <p style="text-align:center;">Oh no! You're out for a walk and just
     realized you forgot your lunch! Luckily, you recognize a couple of
@@ -29,6 +20,3 @@
       <font color="LightSeaGreen">
       Return to Home
       </font></a></p>
-</body>
-
-</html>
